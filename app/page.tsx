@@ -62,7 +62,7 @@ export default function Home() {
 
       <section id="about" className="about section-pad">
         <div className="about-image" data-reveal><span>Portrait / 2026</span></div>
-        <div className="about-copy" data-reveal><p className="kicker">02 / About</p><p className="statement">I look for the quiet truth inside bold characters.</p><p className="body-copy">Avery Stone is a Los Angeles–based actor known for grounded, emotionally precise performances across film and television. Their work lives in the space between restraint and revelation.</p><div className="facts"><div><span>Height</span><b>5′ 9″</b></div><div><span>Location</span><b>LA / NYC</b></div><div><span>Representation</span><b>North Artists</b></div></div><a className="text-link" href="/resume.pdf">Download résumé <span>↓</span></a></div>
+        <div className="about-copy" data-reveal><p className="kicker">02 / About</p><p className="statement">I look for the quiet truth inside bold characters.</p><p className="body-copy">Avery Stone is a Los Angeles–based actor known for grounded, emotionally precise performances across film and television. Their work lives in the space between restraint and revelation.</p><div className="facts"><div><span>Height</span><b>5′ 9″</b></div><div><span>Location</span><b>LA / NYC</b></div><div><span>Representation</span><b>North Artists</b></div></div><a className="text-link" href="./resume.pdf">Download résumé <span>↓</span></a></div>
       </section>
 
       <section className="quote section-pad" data-reveal><p>“A rare combination of stillness<br />and <em>electricity.</em>”</p><span>— The Screen Journal</span></section>
